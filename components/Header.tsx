@@ -18,7 +18,7 @@ async function Header() {
         {/* logo */}
         <Logo />
         {/* right section */}
-        <div className=" flex flex-1 items-center justify-end space-x-4">
+        <div className=" flex flex-1 items-center justify-center  md:justify-end space-x-6 mx-auto px-0">
           {/* language select */}
           {session ? (
             <>
