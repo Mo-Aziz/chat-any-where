@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## platforms used in the app development.
 
-## Getting Started
+### next js 14
 
-First, run the development server:
+### next app router
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+sever components
+server actions
+next auth
+higher orde components
+custom hooks
+light and dark mode
+protected routes.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+handling loading state. loading - skelton loaders.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### next Auth
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## stipe payment.
 
-## Learn More
+# \***\*\*\*\*\***\*\*\*\***\*\*\*\*\***
 
-To learn more about Next.js, take a look at the following resources:
+### run payment stripe extention
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### stipe payments portal links.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### stripe webhook.
 
-## Deploy on Vercel
+### shadcn/ui
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+#### ******\*******
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### button
+
+### aspect ratio
+
+### dark mode
+
+### dropdown menu
+
+### user avatar
+
+#### tailwind css
+
+#### backend
+
+#### firebase V9.
+
+firebase roles
+
+#### Aspect Ratio : Displays content within a desired ratio.
+
+#### translate text in firestore
+
+##### zod for invalidating forms.
+
+### Zustand for managing global state.
